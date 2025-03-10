@@ -1,2 +1,2 @@
 # deltav-mod-manager
-Mod Manager for DeltaV
+Mod Manager for DeltaV: Rings of Saturn
