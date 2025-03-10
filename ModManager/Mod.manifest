@@ -1,0 +1,15 @@
+[package]
+
+id="viperfan7.ModManager"
+name="DeltaV Mod Manager"
+version="0.1.0"
+description="Mod Manager for DeltaV using GitHub topics"
+group="testing"
+github_homepage="https://github.com/viperfan7/deltav-mod-manager"
+github_releases="https://github.com/viperfan7/deltav-mod-manager/releases"
+discord_thread="https://discord.gg/dv/"
+nexus_page="https://www.nexusmods.com/dvringsofsaturn/mods/"
+donations_page="https://example.url"
+wiki_page="https://example.url"
+custom_link="https://example.url"
+custom_link_name="Nothing to see here"
